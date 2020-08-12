@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-53" transform="translate(-164.000000, -315.000000)" fill-rule="nonzero" fill="#F7F7F7">
+            <g id="Head-Plate">
+                <g id="Quiz-Row" transform="translate(84.000000, 311.000000)">
+                    <g id="Star-Row" transform="translate(0.000000, 4.000000)">
+                        <path d="M95.6000004,5.957798 L89.9160732,5.957798 L87.8004433,0 L85.6830409,5.957798 L80,5.957798 L84.6371912,9.45607659 L82.978899,15.5973414 L87.8004433,11.915596 L92.6202151,15.5973414 L90.9636955,9.45607659 L95.6000004,5.957798 Z M87.8004433,10.1775356 L85.1290951,12.3933189 L86.2307825,9.23627089 L83.7039033,7.1977503 L86.8254987,7.28726795 L87.8004433,3.70656222 L88.7745017,7.28726795 L91.8952108,7.1977503 L89.3683316,9.23627089 L90.470019,12.3933189 L87.8004433,10.1775356 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
